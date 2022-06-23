@@ -30,15 +30,14 @@ After DDC, students will...
 * Copy Machine for printouts
 * 3D printers
 * Arduino, speakers, wire strippers, soldering irons, solder
-### WEEK 1: Walei Sabry
- Introduction to Digital Accessibility, wayfinding and smart cities
- ### WEEK 2: Chancey Fleet
- Tools for Mapping Sensory intelligence- visual, auditory, motor & cognitive
- ### WEEK 3: Tahir Hemphill, DeLesslin “Roo” George-Warren
-  Mapping Sounds, Smell and texture of the city wayfinding in the digital and real world.
-  
+## WEEK 1: Walei Sabry
+ ### Introduction to Digital Accessibility, wayfinding and smart cities
+ ## WEEK 2: Chancey Fleet
+ ### Tools for Mapping Sensory intelligence- visual, auditory, motor & cognitive
+ ## WEEK 3: Tahir Hemphill, DeLesslin “Roo” George-Warren
+###  Mapping Sounds, Smell and texture of the city wayfinding in the digital and real world.
   Guest Speaker: Lauren Race
-  ### WEEK 4: Prototyping and design thinking, Tactile Design:
-  ### WEEK 5: Digital twin & Rapid prototyping
+  ## WEEK 4: Prototyping and design thinking, Tactile Design:
+  ## WEEK 5: Digital twin & Rapid prototyping
 ## Student Reflections, Takeaways & Next Steps
 ## Resources

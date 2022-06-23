@@ -40,4 +40,5 @@ After DDC, students will...
   ## WEEK 4: Prototyping and design thinking, Tactile Design:
   ## WEEK 5: Digital twin & Rapid prototyping
 ## Student Reflections, Takeaways & Next Steps
+## Vocabulary
 ## Resources

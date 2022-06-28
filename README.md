@@ -1,44 +1,87 @@
 # DDC_2022
 Repository for Digital Day Camp 2022
-## About DDC
-Established in 1998, Digital Day Camp is Eyebeam’s longest running program, and one of the first-ever youth summer programs centered on new media education. This year's DDC theme is "Accessible Smart Cities and The Digital Twin."
-## About Eyebeam 	
 
-Established in the Chelsea district of Manhattan in 1998, Eyebeam was founded as a resource for artists to engage creatively with technology in a setting that encouraged experimentation. Today, we continue to be a resource for artists and technologists alike as technology’s effect on society grows increasingly complex and problematic. In all of our work, we strive to amplify artists’ ideas that carve a path towards a more just future.
+## Session Title
+Please provide the title of your session
 
-Since 2001, the core of our programming has been our Residency, which evolved into a digital-first Fellowship in the last year. Every year we provide professional guidance, studio space, expert advice, and a significant cash award for up to 30 artists whose practices engage with the most pressing issues of our time. Unlike other fellowships, Eyebeam encourages inquiry-based practices through which artists can experiment and initiate critical dialogues with one another that are centered around technology’s effect on society. By supporting a multiplicity of artists responsive to systems of oppression, Eyebeam includes narratives that better reflect the existing plurality of genders, races, ethnicities, abilities, ages, sexual orientations, citizenships, and socioeconomic statuses in support of an expansively inclusive vision of a better future.
+## Authors
+Your name (please include collaborators or funding institutions that have
+supported this work) and links to your site or Github.
+
+## Essential Questions
+Questions that lead to a meaningful exploration of CS concepts and practices.
+Examples:
+* How can programming represent your ideas and beliefs?
+* How might we use math (or other subjects) to express ourselves creatively?
+* How might we use digital tools to impact our community?
+* What information is my computer sharing about me or my online
+activity?
+
+## Introduction
+Please provide a narrative of what the unit is about, and why we should learn
+that is simple enough for a student to read and understand. For example: "In
+this workshop, we will be using ... to explore ... so that you have a better
+understanding of how ..."
+
 ## Target Audience / Prerequisite & Pre-Assessment
-This is intended for rising 9th graders and high school students who will be enrolled in the 2022-2023 school year. Participants should demonstrate an interest in art, technology and/or cultural issues and have a willingness to learn new things.
-## Pacing / Duration
-DDC will take place from July 11 - August 19 from 10 - 4PM EDT. 
-* Cohort 1 will be on Mondays Wednesdays & Fridays 
-* Cohort 2 will be on Tuesdays, Wednesday & Thursdays 
-* Wednesdays are Field Trips or Workshops i.e. Accessibility LAB at NYU, VR Labs, 3D Printing and prototyping
+What age range is this exercise designed for and what do students and
+teachers need to know to be able to be successful in the workshop? Are there
+any tools/toolkits they should already be comfortable with, any frameworks or
+tools they should have installed before class?
+
 ## Outcomes & Goals
-After DDC, students will...
-* Have a deep background in the history of Accessibility and the Urban Landscape
-* Articulate How Cities can make interactive experiences accessible to all people, regardless of ability
-* Work as a group to help each other develop design thinking, collaborative work and hackathons, and an innovative mindset
-* Have a broader vocabulary about new ways that audio, video, and digital media can be used to make Cities more accessible along with technology’s role in activist practices today, both advantages and perils
-* Have explored Smart Cities and the Digital Twin
-* Be able to apply this knowledge and language to future exercises and classes
+This can be easily answered by completing these example sentences:
+* In this workshop, we will be... (writing, planning, soldering, setting up an
+RPi home network, and making a wearable that communicates with....)
+* Students will walk away with a deeper understanding of...
+* Students will contemplate the ethical use of technology in terms of
+social justice and inclusion.
+
 ## Materials
-* Cardstock papers, papers drawing supplies, LED circuit stickers, copper foil tape, coin batteries, tapes
-* Craft paint, foam core, paint brushes, magnetic tape
-* colorful cardstock, scissors, pencils, and painter's tape
-* pens & post-its
-* Copy Machine for printouts
-* 3D printers
-* Arduino, speakers, wire strippers, soldering irons, solder
-## WEEK 1: Walei Sabry
- ### Introduction to Digital Accessibility, wayfinding and smart cities
- ## WEEK 2: Chancey Fleet
- ### Tools for Mapping Sensory intelligence- visual, auditory, motor & cognitive
- ## WEEK 3: Tahir Hemphill, DeLesslin “Roo” George-Warren
-###  Mapping Sounds, Smell and texture of the city wayfinding in the digital and real world.
-  Guest Speaker: Lauren Race
-  ## WEEK 4: Prototyping and design thinking, Tactile Design:
-  ## WEEK 5: Digital twin & Rapid prototyping
-## Student Reflections, Takeaways & Next Steps
+What prototyping tools will students or teachers need for lessons? This could
+be anything from 3d printing designs to cardboard to Arduinos (we encourage
+you to be as expansive and creative as possible.)
+
+### Exercises To Do Before Class
+What materials (readings, tasks, exercises) should students complete before class to be prepared for the lesson.
+
 ## Vocabulary
+* Terms and language for the subject matter you are teaching, for
+example, ‘Design Justice’.
+* Program: A procedure, or set of instructions, that performs a specific
+task when executed by a computer.
+* Programming Language: The human-readable commands and syntax (or
+grammar rules) used to write programs.
+
+## Exercise Descriptions
+Descriptions of each exercise or phase of the class. Similar to pacing but with
+more description of steps.
+
+## Student Reflections, Takeaways & Next Steps
+Additional materials for the students to leave with that can help them dig
+deeper into the subject or additional exercises and challenges to help
+students progress their knowledge to the next level and gain mastery of the
+subject through independent study.
+
+an idea of high-medium-low projects so students are locked into one end product.
+  * First Steps - a simple exercise
+  * Next Steps - medium exercise
+  * Big Steps - (hackathon, challenge, or open-ended study).
+* Presentation: 
+  * How might students share their work?
+  * Will it be with peers or the outside world?
+  * What media or platforms could and should be referenced to students to encourage sharing (Instagram, Tumblr...)?
+* Reflection: reflection questions that ask students to think about CS concepts and practices. How can students express what they’ve learned in some creative way?'
+
+# Post Session
+
 ## Resources
+Include any sources cited, but not directly linked in the unit.
+
+## Implementation Guidance & Teaching Reflection  
+Please provide some guidance based on your experience with delivering the
+unit and potential modifications that you are considering for future iterations
+of this unit. This is an opportunity for you as the unit author to give teachers
+practical guidance.
+
+
